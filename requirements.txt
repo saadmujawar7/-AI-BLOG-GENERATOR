@@ -6,4 +6,4 @@ python-box
 streamlit
 gdown
 langchain_community
-
+fpdf
