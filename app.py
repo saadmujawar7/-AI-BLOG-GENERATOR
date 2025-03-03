@@ -2,7 +2,8 @@ import streamlit as st
 import os
 import gdown
 import time
-from langchain.llms import CTransformers
+from langchain_community.llms import CTransformers
+
 from fpdf import FPDF  # Ensure fpdf is installed
 
 # ✅ Set Page Config at the TOP
